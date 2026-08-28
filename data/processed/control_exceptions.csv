@@ -1,0 +1,13 @@
+control_name,record_id,severity,details
+Duplicate GL transaction,GL row 10,High,Possible duplicate entry in journal JE-10006
+Duplicate GL transaction,GL row 1200,High,Possible duplicate entry in journal JE-10006
+Invalid account number,GL row 25,High,Account 9999 is not in the chart of accounts
+Unbalanced journal entry,JE-10006,High,"Journal is out of balance by $5,371.52"
+Unbalanced journal entry,JE-10021,High,Journal is out of balance by $125.00
+Duplicate AP invoice,INV-00006,High,"Duplicate invoice found for Johnson, Butler and Fleming"
+Duplicate AP invoice,INV-00006,High,"Duplicate invoice found for Johnson, Butler and Fleming"
+Missing vendor name,INV-00013,Medium,Invoice does not have a valid vendor name
+Incomplete close task,Accounts receivable close,Medium,Task owned by Finance has status: In Progress
+Incomplete close task,Payroll accrual,Medium,Task owned by Finance has status: Not Started
+Incomplete close task,Expense variance review,Medium,Task owned by Operations has status: In Progress
+Incomplete close task,Management report review,Medium,Task owned by Finance has status: Not Started

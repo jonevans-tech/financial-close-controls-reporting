@@ -1,0 +1,302 @@
+invoice_id,vendor_name,invoice_date,invoice_amount,department,status
+INV-00001,Joseph LLC,2026-12-02,12878.16,Technology,Posted
+INV-00002,Joseph LLC,2026-05-28,5086.92,Finance,Paid
+INV-00003,Williams LLC,2026-07-01,14729.86,Sales,Paid
+INV-00004,Joseph LLC,2026-02-22,350.74,Operations,Open
+INV-00005,Hernandez LLC,2026-06-16,11367.91,Sales,Posted
+INV-00006,"Johnson, Butler and Fleming",2026-04-27,10912.52,Sales,Posted
+INV-00007,Villanueva LLC,2026-01-02,5553.39,Finance,Posted
+INV-00008,Watson-Roberts,2026-09-26,1993.82,Operations,Open
+INV-00009,Watson-Roberts,2026-12-22,10369.59,Finance,Posted
+INV-00010,Watson-Roberts,2026-05-01,13762.92,Sales,Posted
+INV-00011,"Newman, Jenkins and Cooper",2026-09-14,3507.53,Technology,Paid
+INV-00012,Ferguson Inc,2026-06-22,6960.94,Sales,Open
+INV-00013,,2026-04-16,10603.63,Marketing,Posted
+INV-00014,Villanueva LLC,2026-12-10,12427.65,Marketing,Paid
+INV-00015,"Martinez, Green and Lopez",2026-12-23,8001.22,Sales,Paid
+INV-00016,Brown and Sons,2026-07-28,13779.36,Finance,Posted
+INV-00017,"Wilkinson, Wallace and Torres",2026-02-23,13567.6,Marketing,Posted
+INV-00018,Hernandez LLC,2026-07-25,2460.32,Marketing,Open
+INV-00019,"Wilkinson, Wallace and Torres",2026-11-27,1964.54,Marketing,Open
+INV-00020,"Martinez, Green and Lopez",2026-06-10,1591.39,Technology,Paid
+INV-00021,"Martinez, Green and Lopez",2026-09-08,6938.13,Technology,Open
+INV-00022,"Mann, Wade and Spence",2026-09-24,8567.69,Technology,Posted
+INV-00023,"Johnson, Butler and Fleming",2026-11-24,12152.0,Technology,Open
+INV-00024,"Wilkinson, Wallace and Torres",2026-02-20,12292.69,Marketing,Paid
+INV-00025,Huber-Montgomery,2026-07-20,918.02,Finance,Posted
+INV-00026,Rojas-Smith,2026-04-23,14913.32,Technology,Paid
+INV-00027,"Buchanan, Tucker and Wade",2026-05-27,4484.59,Operations,Posted
+INV-00028,Mcpherson Ltd,2026-11-03,14680.42,Sales,Open
+INV-00029,Joseph LLC,2026-06-12,6865.92,Technology,Paid
+INV-00030,"Mann, Wade and Spence",2026-02-03,10320.27,Operations,Posted
+INV-00031,Brown and Sons,2026-01-21,12939.23,Operations,Posted
+INV-00032,"Newman, Jenkins and Cooper",2026-08-22,6047.61,Operations,Paid
+INV-00033,Watson-Roberts,2026-08-01,11403.65,Technology,Posted
+INV-00034,Mcpherson Ltd,2026-03-22,10856.64,Marketing,Open
+INV-00035,Villanueva LLC,2026-12-07,12394.57,Technology,Open
+INV-00036,"Wilkinson, Wallace and Torres",2026-04-12,2538.04,Finance,Paid
+INV-00037,Mcpherson Ltd,2026-01-09,12189.8,Marketing,Paid
+INV-00038,Rojas-Smith,2026-07-15,3799.83,Finance,Posted
+INV-00039,Ferguson Inc,2026-06-12,745.25,Finance,Paid
+INV-00040,Joseph LLC,2026-09-02,11172.98,Technology,Paid
+INV-00041,Wells Group,2026-02-01,8211.46,Operations,Posted
+INV-00042,Villanueva LLC,2026-07-06,14903.88,Marketing,Open
+INV-00043,Hernandez LLC,2026-03-12,8767.75,Operations,Open
+INV-00044,"Martinez, Green and Lopez",2026-04-26,13174.81,Operations,Open
+INV-00045,Wells Group,2026-08-09,4682.39,Marketing,Posted
+INV-00046,"Buchanan, Tucker and Wade",2026-12-10,13225.78,Technology,Posted
+INV-00047,Huber-Montgomery,2026-11-27,7560.41,Technology,Posted
+INV-00048,Mcpherson Ltd,2026-05-12,4951.33,Technology,Paid
+INV-00049,"Buchanan, Tucker and Wade",2026-02-23,4673.36,Marketing,Open
+INV-00050,Villanueva LLC,2026-11-07,3804.28,Sales,Posted
+INV-00051,"Conway, Bauer and Martin",2026-05-15,2379.19,Finance,Posted
+INV-00052,Mcpherson Ltd,2026-05-16,6336.99,Marketing,Posted
+INV-00053,Villanueva LLC,2026-04-14,2227.87,Sales,Paid
+INV-00054,Rojas-Smith,2026-05-08,5121.38,Technology,Open
+INV-00055,"Wilkinson, Wallace and Torres",2026-12-22,1613.84,Finance,Open
+INV-00056,Ferguson Inc,2026-11-15,5813.23,Marketing,Paid
+INV-00057,"Wilkinson, Wallace and Torres",2026-02-01,13135.9,Marketing,Posted
+INV-00058,"Wilkinson, Wallace and Torres",2026-09-22,10153.9,Technology,Paid
+INV-00059,Hernandez LLC,2026-06-11,13074.74,Sales,Paid
+INV-00060,"Wilkinson, Wallace and Torres",2026-12-28,3374.16,Finance,Posted
+INV-00061,Williams LLC,2026-10-20,14993.69,Operations,Posted
+INV-00062,"Wilkinson, Wallace and Torres",2026-04-16,9164.92,Technology,Paid
+INV-00063,Watson-Roberts,2026-10-21,8393.17,Technology,Open
+INV-00064,Huber-Montgomery,2026-12-20,8121.34,Sales,Open
+INV-00065,Williams LLC,2026-06-04,5554.76,Technology,Paid
+INV-00066,Williams LLC,2026-11-23,12091.55,Sales,Paid
+INV-00067,Mcpherson Ltd,2026-02-20,5717.9,Finance,Posted
+INV-00068,"Newman, Jenkins and Cooper",2026-08-02,12995.25,Finance,Open
+INV-00069,Watson PLC,2026-02-01,8411.35,Marketing,Posted
+INV-00070,"Newman, Jenkins and Cooper",2026-03-17,6409.28,Operations,Open
+INV-00071,Watson PLC,2026-06-22,3642.77,Operations,Open
+INV-00072,Hernandez LLC,2026-11-12,8371.98,Sales,Open
+INV-00073,Williams LLC,2026-12-26,14506.0,Technology,Paid
+INV-00074,Huber-Montgomery,2026-01-25,11058.39,Operations,Paid
+INV-00075,Williams LLC,2026-12-16,10874.62,Operations,Posted
+INV-00076,Wells Group,2026-10-03,14857.27,Marketing,Paid
+INV-00077,Rojas-Smith,2026-02-02,12626.26,Finance,Paid
+INV-00078,Villanueva LLC,2026-05-30,6332.79,Finance,Posted
+INV-00079,"Wilkinson, Wallace and Torres",2026-11-29,2477.69,Marketing,Open
+INV-00080,Ferguson Inc,2026-05-31,5754.71,Marketing,Open
+INV-00081,"Johnson, Butler and Fleming",2026-07-22,9974.44,Finance,Posted
+INV-00082,"Johnson, Butler and Fleming",2026-09-16,8386.74,Finance,Posted
+INV-00083,"Mann, Wade and Spence",2026-10-02,10902.34,Sales,Paid
+INV-00084,Mcpherson Ltd,2026-02-19,7657.69,Operations,Paid
+INV-00085,"Martinez, Green and Lopez",2026-03-09,13791.22,Operations,Paid
+INV-00086,"Martinez, Green and Lopez",2026-05-19,3081.0,Sales,Open
+INV-00087,Joseph LLC,2026-07-21,4193.04,Finance,Open
+INV-00088,"Conway, Bauer and Martin",2026-01-16,14399.64,Marketing,Paid
+INV-00089,Villanueva LLC,2026-10-28,14855.94,Sales,Posted
+INV-00090,Rojas-Smith,2026-10-31,12463.92,Finance,Paid
+INV-00091,Joseph LLC,2026-04-21,6227.85,Marketing,Open
+INV-00092,"Johnson, Butler and Fleming",2026-07-23,1077.7,Operations,Paid
+INV-00093,Mcpherson Ltd,2026-06-18,7622.91,Sales,Posted
+INV-00094,Brown and Sons,2026-01-10,14665.61,Marketing,Paid
+INV-00095,Watson PLC,2026-01-01,3639.06,Technology,Open
+INV-00096,Rojas-Smith,2026-04-06,936.79,Sales,Posted
+INV-00097,Wells Group,2026-12-14,8561.77,Operations,Open
+INV-00098,"Wilkinson, Wallace and Torres",2026-10-31,480.96,Marketing,Paid
+INV-00099,Joseph LLC,2026-06-22,11345.75,Finance,Open
+INV-00100,Villanueva LLC,2026-08-26,2646.14,Marketing,Open
+INV-00101,"Mann, Wade and Spence",2026-11-21,10236.27,Sales,Open
+INV-00102,"Newman, Jenkins and Cooper",2026-06-01,11395.24,Finance,Posted
+INV-00103,Huber-Montgomery,2026-06-29,11245.48,Finance,Paid
+INV-00104,Rojas-Smith,2026-09-08,6697.05,Sales,Posted
+INV-00105,Ferguson Inc,2026-03-31,11592.83,Technology,Open
+INV-00106,Mccormick and Sons,2026-02-13,686.98,Technology,Open
+INV-00107,"Mann, Wade and Spence",2026-04-11,3615.04,Technology,Open
+INV-00108,Watson PLC,2026-12-28,2989.63,Technology,Paid
+INV-00109,Watson-Roberts,2026-01-25,11639.47,Operations,Posted
+INV-00110,Mccormick and Sons,2026-09-29,1334.22,Operations,Open
+INV-00111,"Newman, Jenkins and Cooper",2026-07-31,10747.24,Technology,Open
+INV-00112,Rojas-Smith,2026-07-25,5570.33,Finance,Open
+INV-00113,Mccormick and Sons,2026-11-13,6809.85,Finance,Paid
+INV-00114,Mcpherson Ltd,2026-08-17,1537.63,Technology,Posted
+INV-00115,Mcpherson Ltd,2026-06-23,8432.42,Finance,Paid
+INV-00116,"Mann, Wade and Spence",2026-09-10,1571.88,Finance,Posted
+INV-00117,Hernandez LLC,2026-02-13,9071.15,Technology,Paid
+INV-00118,Joseph LLC,2026-07-06,4554.75,Finance,Posted
+INV-00119,Villanueva LLC,2026-07-29,13541.76,Marketing,Posted
+INV-00120,Joseph LLC,2026-11-04,2751.35,Operations,Paid
+INV-00121,Mccormick and Sons,2026-03-01,4216.55,Technology,Paid
+INV-00122,Mcpherson Ltd,2026-01-22,1183.19,Sales,Open
+INV-00123,Rojas-Smith,2026-04-27,4671.35,Sales,Open
+INV-00124,Williams LLC,2026-11-16,14177.28,Marketing,Posted
+INV-00125,Brown and Sons,2026-02-19,3134.34,Operations,Open
+INV-00126,Joseph LLC,2026-03-01,349.82,Sales,Posted
+INV-00127,Hernandez LLC,2026-04-10,5853.38,Technology,Open
+INV-00128,Ferguson Inc,2026-06-02,6601.59,Operations,Open
+INV-00129,"Wilkinson, Wallace and Torres",2026-11-29,4979.81,Technology,Open
+INV-00130,Joseph LLC,2026-05-10,2870.15,Sales,Open
+INV-00131,Williams LLC,2026-04-16,11089.4,Marketing,Paid
+INV-00132,Mccormick and Sons,2026-07-12,5056.82,Technology,Open
+INV-00133,Watson PLC,2026-12-07,1929.85,Operations,Posted
+INV-00134,"Buchanan, Tucker and Wade",2026-07-07,14959.66,Marketing,Paid
+INV-00135,"Conway, Bauer and Martin",2026-10-06,14306.82,Operations,Open
+INV-00136,Rojas-Smith,2026-03-08,12015.86,Technology,Posted
+INV-00137,Watson-Roberts,2026-02-04,7614.72,Operations,Open
+INV-00138,Mcpherson Ltd,2026-10-01,9965.28,Technology,Paid
+INV-00139,Ferguson Inc,2026-07-17,6873.73,Technology,Posted
+INV-00140,"Martinez, Green and Lopez",2026-11-14,6161.88,Technology,Posted
+INV-00141,Huber-Montgomery,2026-10-28,792.29,Marketing,Posted
+INV-00142,Rojas-Smith,2026-09-07,9663.16,Finance,Paid
+INV-00143,Huber-Montgomery,2026-04-20,9949.62,Operations,Posted
+INV-00144,Watson PLC,2026-09-07,9287.0,Technology,Open
+INV-00145,Mcpherson Ltd,2026-09-08,14494.32,Finance,Paid
+INV-00146,Villanueva LLC,2026-02-04,1704.45,Marketing,Posted
+INV-00147,Watson PLC,2026-07-31,7902.27,Marketing,Paid
+INV-00148,Joseph LLC,2026-10-27,6825.23,Technology,Posted
+INV-00149,"Martinez, Green and Lopez",2026-01-05,8931.7,Operations,Open
+INV-00150,Williams LLC,2026-07-08,14966.12,Finance,Open
+INV-00151,Rojas-Smith,2026-05-16,6385.64,Finance,Posted
+INV-00152,Watson-Roberts,2026-06-26,2339.71,Sales,Open
+INV-00153,"Martinez, Green and Lopez",2026-05-04,11817.98,Technology,Open
+INV-00154,"Conway, Bauer and Martin",2026-11-28,7273.4,Technology,Open
+INV-00155,Wells Group,2026-02-07,1240.82,Finance,Paid
+INV-00156,Brown and Sons,2026-02-26,12775.41,Operations,Posted
+INV-00157,"Buchanan, Tucker and Wade",2026-03-22,3847.72,Marketing,Paid
+INV-00158,Mcpherson Ltd,2026-03-10,5132.1,Technology,Paid
+INV-00159,"Buchanan, Tucker and Wade",2026-11-23,12016.9,Operations,Posted
+INV-00160,Joseph LLC,2026-08-12,9945.29,Finance,Posted
+INV-00161,"Wilkinson, Wallace and Torres",2026-10-30,9308.08,Technology,Posted
+INV-00162,"Johnson, Butler and Fleming",2026-07-11,6585.9,Operations,Paid
+INV-00163,Rojas-Smith,2026-07-13,4355.59,Marketing,Paid
+INV-00164,"Mann, Wade and Spence",2026-07-20,12042.66,Operations,Open
+INV-00165,"Conway, Bauer and Martin",2026-10-03,5058.28,Finance,Open
+INV-00166,Williams LLC,2026-02-11,10142.85,Marketing,Posted
+INV-00167,Joseph LLC,2026-06-17,4872.71,Marketing,Open
+INV-00168,Huber-Montgomery,2026-01-28,8908.32,Sales,Open
+INV-00169,Watson-Roberts,2026-10-26,9356.1,Marketing,Posted
+INV-00170,"Newman, Jenkins and Cooper",2026-12-03,1500.09,Sales,Paid
+INV-00171,Brown and Sons,2026-06-24,3768.95,Operations,Open
+INV-00172,"Martinez, Green and Lopez",2026-04-24,10478.19,Technology,Open
+INV-00173,Watson PLC,2026-05-12,9047.28,Technology,Open
+INV-00174,"Mann, Wade and Spence",2026-10-25,2989.87,Operations,Posted
+INV-00175,Watson-Roberts,2026-11-20,2711.27,Operations,Paid
+INV-00176,"Conway, Bauer and Martin",2026-08-06,4890.06,Marketing,Paid
+INV-00177,"Johnson, Butler and Fleming",2026-10-05,13016.45,Technology,Paid
+INV-00178,Joseph LLC,2026-05-05,3128.15,Marketing,Posted
+INV-00179,Mcpherson Ltd,2026-09-16,9882.78,Technology,Open
+INV-00180,"Conway, Bauer and Martin",2026-01-11,10724.6,Technology,Paid
+INV-00181,"Johnson, Butler and Fleming",2026-10-24,1469.39,Operations,Open
+INV-00182,Villanueva LLC,2026-03-22,732.25,Marketing,Open
+INV-00183,"Conway, Bauer and Martin",2026-11-08,2731.08,Marketing,Posted
+INV-00184,Williams LLC,2026-02-21,11645.08,Marketing,Posted
+INV-00185,Brown and Sons,2026-03-24,1919.86,Sales,Posted
+INV-00186,Huber-Montgomery,2026-02-15,12393.42,Marketing,Paid
+INV-00187,"Conway, Bauer and Martin",2026-02-17,11460.06,Marketing,Paid
+INV-00188,Brown and Sons,2026-01-29,14849.19,Operations,Open
+INV-00189,Wells Group,2026-09-09,13153.45,Technology,Open
+INV-00190,Rojas-Smith,2026-10-13,5391.51,Technology,Paid
+INV-00191,Villanueva LLC,2026-01-29,11690.57,Operations,Posted
+INV-00192,Huber-Montgomery,2026-10-09,8921.88,Marketing,Posted
+INV-00193,Ferguson Inc,2026-10-03,6565.46,Operations,Paid
+INV-00194,Wells Group,2026-01-16,12249.57,Marketing,Open
+INV-00195,Ferguson Inc,2026-02-09,8101.14,Marketing,Paid
+INV-00196,Watson-Roberts,2026-10-16,5023.89,Sales,Posted
+INV-00197,"Martinez, Green and Lopez",2026-07-06,4193.31,Finance,Paid
+INV-00198,Mcpherson Ltd,2026-01-22,14450.89,Finance,Open
+INV-00199,"Newman, Jenkins and Cooper",2026-02-13,13038.95,Operations,Paid
+INV-00200,Hernandez LLC,2026-04-03,2407.09,Operations,Posted
+INV-00201,"Newman, Jenkins and Cooper",2026-01-25,6042.34,Marketing,Posted
+INV-00202,Mcpherson Ltd,2026-09-01,4213.58,Technology,Open
+INV-00203,Rojas-Smith,2026-10-02,1363.87,Technology,Posted
+INV-00204,Huber-Montgomery,2026-10-12,11309.59,Technology,Open
+INV-00205,"Johnson, Butler and Fleming",2026-12-01,5077.52,Finance,Posted
+INV-00206,Huber-Montgomery,2026-03-16,14589.22,Finance,Posted
+INV-00207,Mcpherson Ltd,2026-11-25,6116.31,Operations,Open
+INV-00208,Watson-Roberts,2026-03-09,4210.92,Sales,Posted
+INV-00209,Watson PLC,2026-05-08,8774.52,Technology,Open
+INV-00210,Wells Group,2026-02-03,13438.78,Finance,Paid
+INV-00211,"Conway, Bauer and Martin",2026-11-04,9486.15,Finance,Paid
+INV-00212,"Buchanan, Tucker and Wade",2026-12-09,13959.13,Technology,Open
+INV-00213,Mcpherson Ltd,2026-12-12,259.97,Operations,Posted
+INV-00214,Watson-Roberts,2026-05-07,13663.76,Operations,Open
+INV-00215,Huber-Montgomery,2026-02-28,1626.76,Sales,Paid
+INV-00216,"Buchanan, Tucker and Wade",2026-07-02,5734.7,Finance,Open
+INV-00217,Villanueva LLC,2026-09-23,9477.66,Technology,Posted
+INV-00218,Brown and Sons,2026-03-30,1595.19,Finance,Paid
+INV-00219,"Newman, Jenkins and Cooper",2026-07-27,7282.9,Marketing,Paid
+INV-00220,"Conway, Bauer and Martin",2026-02-06,7911.8,Finance,Paid
+INV-00221,Brown and Sons,2026-07-30,10510.06,Technology,Posted
+INV-00222,Rojas-Smith,2026-01-06,2199.58,Operations,Open
+INV-00223,Brown and Sons,2026-03-20,1567.63,Finance,Open
+INV-00224,Watson-Roberts,2026-03-11,5671.53,Operations,Open
+INV-00225,"Newman, Jenkins and Cooper",2026-04-13,11658.54,Operations,Paid
+INV-00226,"Johnson, Butler and Fleming",2026-11-25,8075.0,Marketing,Posted
+INV-00227,Huber-Montgomery,2026-07-15,2670.72,Operations,Posted
+INV-00228,Mcpherson Ltd,2026-12-21,11286.97,Marketing,Posted
+INV-00229,"Wilkinson, Wallace and Torres",2026-02-05,6775.16,Finance,Paid
+INV-00230,Brown and Sons,2026-03-19,2315.19,Marketing,Posted
+INV-00231,Mcpherson Ltd,2026-07-03,5914.47,Sales,Paid
+INV-00232,Rojas-Smith,2026-09-15,3904.85,Operations,Posted
+INV-00233,Ferguson Inc,2026-05-14,9114.74,Sales,Posted
+INV-00234,Watson-Roberts,2026-08-03,645.66,Operations,Posted
+INV-00235,"Wilkinson, Wallace and Torres",2026-06-10,9202.17,Technology,Open
+INV-00236,Villanueva LLC,2026-12-15,9781.0,Technology,Open
+INV-00237,Williams LLC,2026-03-07,1912.97,Marketing,Paid
+INV-00238,"Johnson, Butler and Fleming",2026-05-10,8042.23,Sales,Open
+INV-00239,Watson PLC,2026-05-19,2196.75,Technology,Open
+INV-00240,"Buchanan, Tucker and Wade",2026-03-19,8308.75,Technology,Paid
+INV-00241,Rojas-Smith,2026-03-24,496.17,Finance,Open
+INV-00242,Wells Group,2026-02-11,3432.21,Technology,Posted
+INV-00243,"Martinez, Green and Lopez",2026-12-25,4475.7,Technology,Open
+INV-00244,Rojas-Smith,2026-02-14,10601.71,Marketing,Posted
+INV-00245,Mccormick and Sons,2026-02-10,9336.69,Finance,Open
+INV-00246,"Wilkinson, Wallace and Torres",2026-02-19,1415.57,Operations,Posted
+INV-00247,Watson PLC,2026-10-05,5069.57,Finance,Open
+INV-00248,Villanueva LLC,2026-09-14,10555.47,Finance,Paid
+INV-00249,Mcpherson Ltd,2026-07-22,1521.64,Finance,Open
+INV-00250,Wells Group,2026-01-15,9281.38,Sales,Posted
+INV-00251,"Buchanan, Tucker and Wade",2026-04-30,11189.98,Finance,Paid
+INV-00252,"Johnson, Butler and Fleming",2026-02-12,10691.53,Operations,Open
+INV-00253,"Martinez, Green and Lopez",2026-04-14,14306.99,Marketing,Posted
+INV-00254,Huber-Montgomery,2026-08-07,4073.89,Operations,Posted
+INV-00255,Mccormick and Sons,2026-04-24,11771.58,Finance,Paid
+INV-00256,Mcpherson Ltd,2026-12-22,5191.41,Sales,Posted
+INV-00257,Watson PLC,2026-06-11,1192.11,Finance,Open
+INV-00258,Huber-Montgomery,2026-07-21,6964.17,Finance,Open
+INV-00259,"Buchanan, Tucker and Wade",2026-04-16,12925.56,Sales,Paid
+INV-00260,Brown and Sons,2026-11-08,4012.96,Marketing,Posted
+INV-00261,Villanueva LLC,2026-03-10,10910.98,Marketing,Paid
+INV-00262,"Johnson, Butler and Fleming",2026-01-26,899.56,Operations,Paid
+INV-00263,Joseph LLC,2026-11-03,7208.53,Operations,Paid
+INV-00264,Wells Group,2026-06-23,13984.61,Marketing,Posted
+INV-00265,Mcpherson Ltd,2026-09-05,11174.82,Operations,Open
+INV-00266,Hernandez LLC,2026-03-07,3911.88,Sales,Paid
+INV-00267,Brown and Sons,2026-12-30,8680.16,Marketing,Posted
+INV-00268,"Buchanan, Tucker and Wade",2026-06-28,13553.63,Operations,Posted
+INV-00269,Joseph LLC,2026-02-08,14725.85,Finance,Open
+INV-00270,Watson-Roberts,2026-06-09,13023.98,Sales,Paid
+INV-00271,"Johnson, Butler and Fleming",2026-08-28,8408.1,Sales,Paid
+INV-00272,Watson-Roberts,2026-01-31,4551.03,Marketing,Paid
+INV-00273,Watson PLC,2026-02-22,7092.92,Technology,Paid
+INV-00274,"Mann, Wade and Spence",2026-05-26,11053.83,Operations,Paid
+INV-00275,Mcpherson Ltd,2026-08-03,344.07,Finance,Paid
+INV-00276,"Johnson, Butler and Fleming",2026-02-07,8237.79,Sales,Paid
+INV-00277,Joseph LLC,2026-12-03,11444.21,Sales,Paid
+INV-00278,Villanueva LLC,2026-12-22,3276.62,Technology,Open
+INV-00279,"Newman, Jenkins and Cooper",2026-01-24,14427.48,Sales,Paid
+INV-00280,Villanueva LLC,2026-12-21,897.53,Marketing,Open
+INV-00281,Huber-Montgomery,2026-05-04,10587.49,Technology,Posted
+INV-00282,Brown and Sons,2026-08-05,1502.31,Marketing,Paid
+INV-00283,Joseph LLC,2026-12-27,9648.93,Finance,Posted
+INV-00284,Mcpherson Ltd,2026-02-14,8625.36,Operations,Paid
+INV-00285,Hernandez LLC,2026-11-02,4552.22,Technology,Posted
+INV-00286,Hernandez LLC,2026-09-21,12520.52,Sales,Open
+INV-00287,Rojas-Smith,2026-04-12,4261.35,Operations,Paid
+INV-00288,Watson PLC,2026-09-17,11754.07,Finance,Paid
+INV-00289,"Conway, Bauer and Martin",2026-07-31,1808.45,Technology,Open
+INV-00290,"Mann, Wade and Spence",2026-04-10,6246.06,Sales,Paid
+INV-00291,"Conway, Bauer and Martin",2026-10-15,6915.78,Sales,Paid
+INV-00292,Watson-Roberts,2026-08-23,1583.71,Marketing,Paid
+INV-00293,Hernandez LLC,2026-05-26,3421.56,Operations,Paid
+INV-00294,Huber-Montgomery,2026-06-23,10739.57,Technology,Posted
+INV-00295,Watson-Roberts,2026-08-08,972.02,Sales,Paid
+INV-00296,Joseph LLC,2026-05-28,708.46,Technology,Posted
+INV-00297,Villanueva LLC,2026-06-26,11284.16,Finance,Open
+INV-00298,"Newman, Jenkins and Cooper",2026-04-12,1753.13,Finance,Paid
+INV-00299,Villanueva LLC,2026-10-07,1159.62,Operations,Paid
+INV-00300,Huber-Montgomery,2026-02-09,12399.18,Finance,Posted
+INV-00006,"Johnson, Butler and Fleming",2026-04-27,10912.52,Sales,Posted

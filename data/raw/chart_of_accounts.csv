@@ -1,0 +1,15 @@
+account_id,account_name,account_type
+1000,Cash,Asset
+1100,Accounts Receivable,Asset
+1200,Prepaid Expenses,Asset
+2000,Accounts Payable,Liability
+2100,Accrued Expenses,Liability
+3000,Retained Earnings,Equity
+4000,Product Revenue,Revenue
+4100,Service Revenue,Revenue
+5000,Cost of Goods Sold,Expense
+6100,Salaries and Benefits,Expense
+6200,Software Expense,Expense
+6300,Marketing Expense,Expense
+6400,Professional Services,Expense
+6500,Travel Expense,Expense

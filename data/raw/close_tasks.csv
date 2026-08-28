@@ -1,0 +1,8 @@
+task_name,owner,due_date,status
+Bank reconciliations,Finance,2026-12-31,Completed
+Accounts payable close,Finance,2026-12-31,Completed
+Accounts receivable close,Finance,2026-12-31,In Progress
+Payroll accrual,Finance,2026-12-31,Not Started
+Revenue review,Sales,2026-12-31,Completed
+Expense variance review,Operations,2026-12-31,In Progress
+Management report review,Finance,2026-12-31,Not Started

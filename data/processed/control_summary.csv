@@ -1,0 +1,7 @@
+control_name,severity,exception_count
+Duplicate AP invoice,High,2
+Duplicate GL transaction,High,2
+Incomplete close task,Medium,4
+Invalid account number,High,1
+Missing vendor name,Medium,1
+Unbalanced journal entry,High,2
