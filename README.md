@@ -21,6 +21,10 @@ The reporting pipeline:
 7. Records pipeline and control activity in log files.
 8. Validates outputs with automated tests.
 
+## Report Preview
+
+![Executive Summary](images/executive-summary.png)
+
 ## Pipeline Architecture
 
 ```mermaid
